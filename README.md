@@ -73,17 +73,8 @@ Repository ini merupakan proyek Java desktop yang terhubung ke database. Sebelum
 4. Buka proyek menggunakan IDE Java yang mendukung struktur proyek ini.
 5. Jalankan class utama atau form awal aplikasi sesuai konfigurasi proyek.
 
-> Catatan: detail versi Java, database, skema tabel, dan class utama perlu dicocokkan dengan konfigurasi source code sebelum instruksi instalasi yang lebih spesifik ditambahkan.
-
 ## Dokumentasi Visual
-Repository ini memiliki dokumentasi diagram perancangan dan screenshot antarmuka. Untuk menjaga README tetap mudah dibaca, dokumentasi sebaiknya memprioritaskan diagram, tampilan utama, dan contoh alur CRUD yang paling representatif.
-
-## Batasan dan Pengembangan Selanjutnya
-- Menambahkan petunjuk setup database beserta skema tabel yang diperlukan.
-- Memisahkan konfigurasi database dari source code dan tidak menyimpan kredensial asli di repository.
-- Menambahkan validasi input dan penanganan error yang konsisten.
-- Menambahkan screenshot singkat untuk alur tambah, ubah, cari, dan hapus data.
-- Memperjelas kontribusi masing-masing anggota kelompok pada bagian peran proyek.
+Repository ini menyertakan diagram flowchart, ERD, hierarki class, serta screenshot antarmuka untuk memperlihatkan rancangan dan tampilan aplikasi.
 
 ## Konteks dan Kontribusi
 Proyek ini dikerjakan secara berkelompok. Dokumentasi ini menjelaskan cakupan sistem dan konsep yang diterapkan; saat menggunakan proyek ini sebagai portofolio, cantumkan secara spesifik bagian yang dikerjakan atau menjadi tanggung jawab pribadi agar kontribusi dapat dipahami dengan jelas.
